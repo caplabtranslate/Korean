@@ -1,0 +1,1921 @@
+B_TOOL
+도구상자
+도구상자 메뉴 보기. 
+~
+B_MINMAP
+미니맵 (단축키: "M")
+미니맵 보기.
+~
+B_WORLD
+세계 지도 (단축키: "W")
+세계 지도 보기.
+~
+B_INFO
+안내 센터
+안내 센터 화면 열기.
+~
+B_WATCH
+Event Tracker (hotkey: F5)
+Open the Event Tracker Window
+~
+B_BACK
+Back to previous firm (hotkey: q)
+Go back to the previously selected firm
+~
+B_CASH
+당신 회사의 현금
+이 그림은 당신의 회사가 임의로 사용할 수 있는 현금 보유량을 나타내고 있습니다.
+~
+B_PROFIT
+당신 회사의 연간 이익
+이 그림은 당신 회사의 지난 365일동안의 이익을 나타내고 있습니다. 
+~
+B_CHART
+당신 기업의 연간 & 손실 차트 
+수직 막대는 당신 기업의 월간 수익을 나타냅니다. 빨간색 막대는 손실을, 초록색 막대는 이익을 나타냅니다.
+~
+B_DATE
+현재 날짜
+현재 게임 날짜 입니다.
+~
+T_BUILD
+Build Menu (hotkey: B)
+Click to open the Build Menu
+~
+T_BUYLND
+Buy plots of land (hotkey: F10)
+Activate the mode for buying plots of land 
+~
+T_SETLND
+Land-use planning (hotkey: F10)
+Use this tool to restrict different areas of your city to specific uses. 
+~
+T_GOAL 
+Goal Report (hotkey: G)
+Open the Goal report 
+~
+T_NCITY
+New City Development 
+Acquire the rights to develop and run the new city.
+~
+T_ZOOM1
+최소 줌 레벨 (단축키: ",")
+클릭하면 최소 줌 레벨로 축소하여 도시를 봅니다.
+~
+T_ZOOM2
+보통 줌 레벨 (단축키: ".")
+클릭하면 보통 줌 레벨로 도시를 봅니다.
+~
+T_ZOOM3
+최대 줌 레벨 (단축키: "/")
+클릭하면 최대 줌 레벨로 확대하여 도시를 봅니다.
+~
+MMENUPSR
+상품 요약 보고서 (단축키: "P")
+클릭하면 상품 요약 보고서를 엽니다. 
+~
+MMENUCSR
+기업 요약 보고서 (단축키: "C")
+클릭하면 기업 요약 보고서를 엽니다.
+~
+MMENUFR
+사업체 요약 보고서 (단축키: "F")
+클릭하면 기업 요약 보고서를 엽니다.
+~
+MMENUHQ (hotkey: 'H')
+본사
+`
+~
+MMENUSM
+Stock Market
+Open the Stock Market screen
+~
+MMENUGM
+게임 메뉴 (hotkey: ESC)
+저장, 불러오기, 은퇴, 종료 후 메인 메뉴로, 종료 후 윈도우로.
+~
+MMENUOM
+옵션 메뉴 (단축키: "O")
+게임 옵션 메뉴 보기.
+~
+MMENUSP
+게임속도 (단축키: "1" to "5")
+게임속도 다이얼을 클릭하여 게임 속도를 변경합니다.
+~
+OM_NEWS
+뉴스 보기 옵션 (단축키: "N")
+뉴스 보기 옵션 화면 열기.
+~
+OM_OK
+예
+`
+~
+OM_CN
+취소
+`
+~
+OM_IS_A
+내부 판매 불가
+클릭하면 내부 판매가 금지되고 경쟁업체가 당신 상품을 살 수 있습니다.
+~
+OM_IS_B
+내부 판매 허용
+클릭하면 내부 판매가 허용되고 경쟁업체가 당신 상품을 살 수 없습니다.
+~
+OM_AL_A
+공급업자 자동 연결 불가
+클릭하면 공급업자에 자동으로 연결되지 않습니다. 수동으로 직접 공급업자를 선택해야 합니다.
+~
+OM_AL_B
+공급업자 자동 연결 허용
+클릭하면 공급업자에 자동으로 연결됩니다. 당신의 구매 부서가 공급업자를 찾으려 할 것입니다.
+~
+OM_TO_A
+다른 플레이어의 공개매입 제안을 고려하지 않습니다. 
+일반적으로 공개매입 제안은 경영 지배의 목적으로 주식시장의 주가보다 높은 가격으로 기업 주식을 매입하게 됩니다.
+~
+OM_TO_B
+다른 플레이어의 공개매입 제안을 고려합니다. 
+일반적으로 공개매입 제안은 경영 지배의 목적으로 주식시장의 주가보다 높은 가격으로 기업 주식을 매입하게 됩니다. 
+~
+OM_TE_A
+Do not consider offers from other companies for buying your technology.
+`
+~
+OM_TE_B
+Consider offers from other companies for buying your technology.
+`
+~
+OM_AR_A
+연구개발 결과를 공장의 생산 부서에 자동적으로 적용하지 않습니다.
+클릭하면 연구개발 결과를 자동적으로 적용하지 않게 됩니다. 연구개발 결과를 수동으로 직접 공장에 적용해야 합니다. 
+~
+OM_AR_B
+연구개발 결과를 공장의 생산 부서에 자동적으로 적용합니다.
+클릭하면 연구개발 결과를 자동적으로 적용하게 됩니다. 가장 최근의 연구개발 결과를 당신의 승인없이 자동으로 공장에 적용합니다. 
+~
+OM_GS_A
+매우 느리게
+`
+~
+OM_GS_B
+느리게
+`
+~
+OM_GS_C
+보통으로
+`
+~
+OM_GS_D
+빠르게
+`
+~
+OM_GS_E
+매우 빠르게
+`
+~
+OM_MU_A
+음악 끔
+`
+~
+OM_MU_B
+음악 켬
+`
+~
+OM_SE_A
+음향 효과 끔
+클릭하면 음향 효과를 끕니다.
+~
+OM_SE_B
+음향 효과 켬
+클릭하면 음향 효과를 듣습니다.
+~
+OM_HE_A
+도움말 정보 필요없음
+클릭하면 게임 중 도움말 정보를 나타내지 않습니다.
+~
+OM_HE_B
+간단한 도움말 정보
+클릭하면 게임 중 간략한 도움말 정보를 볼 수 있습니다.
+~
+OM_HE_C
+상세한 도움말 정보
+클릭하면 게임 중 상세한 도움말 정보를 볼 수 있습니다.
+~
+OM_AS_A
+자동 저장 해제 
+클릭하면 자동 저장 모드가 해제됩니다.
+~
+OM_AS_B
+자동 저장 실행
+클릭하면 자동 저장 모드가 실행됩니다.
+~
+OM_QK_A
+Disable the enhanced hotkey system. 
+`
+~
+OM_QK_B
+Enable the enhanced hotkey system. 
+`
+~
+MMAPPT
+이전 도시 (단축키: "[")
+클릭하면 이전 도시를 보여줍니다.
+~
+MMAPNT
+다음 도시 (단축키: "]")
+클릭하면 다음 도시를 보여줍니다.
+~
+MMAPCM
+미니맵 닫기
+클릭하면 미니맵을 닫습니다.
+~
+MMAPTB
+도시 선택 모드
+`
+~
+MMAPTS
+도시 선택
+도시를 선택하고 메인 도시 보기를 업데이트 합니다.
+~
+MMAPBF
+사업체 필터
+사업체 필터를 누르면 특정 사업체만 지도에 보여줍니다.
+~
+MMAPMMO
+소유권 지도 모드
+클릭하면 소유권 모드로 전환됩니다. - 소속 기업 색깔별로 건물들이 표시됩니다.
+~
+MMAPMMV
+지가(토지가격) 모드
+클릭하면 지가(토지가격) 모드로 전환됩니다. - 밝은 색이 땅값이 비싸다는 것을 나타냅니다.
+~
+MMAPMMP
+수익 지도 모드
+클릭하면 수익 지도 모드가 전환됩니다. - 밝은 색이 수익이 좋은 사업체를 나타냅니다.
+~
+MMAPMMR
+토지 자원 지도 모드
+클릭하면 토지 자원 지도 모드가 전환됩니다. - 원료 매장량을 나타냅니다.
+~
+MMAPMMB
+거래 사업체 지도 모드
+클릭하면 거래 사업체 지도 모드가 전환됩니다. - 이 모드로 사업체를 선택하면 선택된 사업체와 직접 사업 관계가 있는 사업체들을 연결선으로 보여줍니다.
+~
+MMAPPUB
+Population and Public Services Mode
+Population density is shown in dark brown colors. Select a civic building or sports facilities to see how conveniently citizens have access to the public services.
+~
+MMAPPOL
+Population and Pollution Mode
+Population density is shown in dark brown colors. Pollution is shown in orange and red colors: Red indicates pollution in populated areas; Orange indicates pollution in unpopulated or very sparsely populated areas.  
+~
+MMAPMM_S
+토양 지도 모드
+`
+~
+MMAPMMI
+사업체 정보 표시 모드
+클릭하면 사업체 정보 표시 모드가 전환됩니다. - 어떤 종류의 사업체인지 메인 도시 보기에 나타납니다.
+~
+MMAPAC
+Apartments and Commercial Buildings Display 
+Click to toggle the display of apartments and commercial buildings.
+~
+SFM_K1
+고객 필터
+마우스의 오른쪽 버튼을 클릭하면 고객 필터를 설정합니다. 왼쪽 버튼을 클릭하면 고객 필터를 실행합니다.
+~
+SFM_K2
+고객 필터
+마우스의 오른쪽 버튼을 클릭하면 고객 필터를 설정합니다. 왼쪽 버튼을 클릭하면 고객 필터를 실행합니다.
+~
+SFM_K3
+고객 필터
+마우스의 오른쪽 버튼을 클릭하면 고객 필터를 설정합니다. 왼쪽 버튼을 클릭하면 고객 필터를 실행합니다.
+~
+SFM_KT
+전체 도시 혹은 현재 도시 필터
+전체 도시 모드와 현재 도시 모드로 필터를 전환합니다. 
+~
+SFM_KM
+플레이어의 사업체 필터 (hotkey: F8)
+플레이어의 사업체 필터로 전환하면 미니맵 화면에 플레이어의 사업체만 보여줍니다.
+~
+SFM_KF
+사업체 필터
+사업체 필터로 전환하면 미니맵 화면에 특정 종류의 사업체만 보여줍니다.
+~
+SFM_KC
+기업 필터
+기업 필터로 전환하면 미니맵에 특정 기업을 보여줍니다.
+~
+SFM_KP
+상품 필터
+상품 필터로 전환하면 미니맵에 특정 상품의 위치를 보여줍니다.
+~
+SFM_KPB
+이전 건물 (단축키: PgUp)
+이전 건물을 보여줍니다. - 건물을 중심으로 도시 보기가 됩니다.
+~
+SFM_KNB
+다음 건물 (단축키: PgDn)
+다음 건물을 보여줍니다. - 건물을 중심으로 도시 보기가 됩니다.
+~
+SFM_SB
+선택된 건물 번호
+필터 설정에 해당되는 전체 건물 중 선택된 건물의 번호를 보여줍니다. 
+~
+SFM_TB
+건물 개수
+필터 설정에 해당되는 건물의 전체 개수를 보여줍니다.
+~
+WM_CW
+세계 지도 닫기
+세계 지도 윈도우를 닫습니다.
+~
+FE_TD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+FE_TU
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+FE_RD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+FE_RU
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+FE_AL
+자동 위치지정
+`
+~
+IN_PD_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IN_PD_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IN_PD_PC
+판매 가격 변경 확인.
+`
+~
+IN_PD_AA
+Apply this price change to all your retail stores in the same city.
+`
+~
+IN_MG_PM
+이전 상품
+이전 상품을 보여줍니다.
+~
+IN_MG_NM
+다음 상품
+다음 상품을 보여줍니다.
+~
+IN_MG_IP
+투입 원료
+새로운 투입 원료를 선택합니다.
+~
+IN_MG_OP
+생산 상품
+새로운 생산품을 선택합니다.
+~
+IN_MG_MI
+이 투입 원료를 사용하는 다른 상품
+이 투입 원료를 사용하는 다른 상품들을 보여줍니다.
+~
+IN_MG_FP
+채용 종결
+클릭하면 채용을 종결합니다.
+~
+IN_MG_HP
+최고 영업 관리자 고용
+클릭하면 최고 영업 관리자을 고용합니다.
+~
+IN_MG_HM
+최고 마케팅 관리자 고용
+클릭하면 최고 마케팅 관리자을 고용합니다.
+~
+IN_MG_HT
+최고 기술 관리자 고용
+클릭하면 최고 기술 관리자을 고용합니다.
+~
+IN_SM_M
+기업 합병
+클릭하면 기업을 합병합니다.
+~
+IN_SM_O
+공개매입 제안 하기
+Make a tender offer to the selected shareholder of the current stock. 
+~
+IN_SM_B
+주식 사기
+클릭하면 화면에 나타난 주식을 삽니다. 
+~
+IN_SM_BX
+Buy Stock
+You can only trade stock once a day in a Challenge Game.  
+~
+IN_SM_OI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. (hotkey: '+' or '=')
+오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+~
+IN_SM_OD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. (hotkey: '-' )
+오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+~
+IN_SM_BI
+주식을 더 많이 삽니다.
+`
+~
+IN_SM_BD
+주식을 더 적게 삽니다.
+`
+~
+IN_SM_SI
+주식을 더 많이 팝니다.
+`
+~
+IN_SM_SD
+주식을 더 적게 팝니다.
+`
+~
+IN_SM_S
+주식 팔기
+클릭하면 화면에 나타난 주식을 팝니다. 
+~
+IN_SM_SX
+Sell Stock
+You can only trade stock once a day in a Challenge Game.  
+~
+IN_SM_GD
+일간 주가 그래프
+클릭하면 선택된 기업에 대한 최근 30일간 주가 그래프를 보여줍니다.
+~
+IN_SM_GM
+월간 주가 그래프
+클릭하면 선택된 기업에 대한 최근 36개월간 주가 그래프를 보여줍니다.
+~
+IN_SM_GY
+연간 주가 그래프
+클릭하면 선택된 기업에 대한 최근 30연간 주가 그래프를 보여줍니다.
+~
+IN_SM_GL
+Yearly Stock Graph
+Click to display the yearly stock graph over its lifetime. 
+~
+IN_SM_NW
+증시 뉴스 보기/닫기
+클릭하면 증시 뉴스 옵션을 켜거나 끌수 있습니다. 이 옵션을 켜면 주식 매매 상황이 도시 보기의 헤드라인으로 나타납니다.
+~
+NEWS_L
+뉴스 기록 창 열기. (hotkey:'V')
+`
+~
+NEWS_LC
+뉴스 기록 창 닫기. (hotkey:'V')
+`
+~
+NEWS_B
+뉴스 실행 버튼. 
+`
+~
+IF_S
+이 사업체를 팔려고 내놉니다.
+`
+~
+IF_B
+이 사업체를 삽니다.
+`
+~
+IF_D
+사업체를 정리합니다.
+`
+~
+IF_PERS
+Person Details 
+Click here to view the person's details. 
+~
+IF_SC
+기업 상세 보고서 단축키.
+Click here to open the Corporation Detail Report
+~
+IF_H
+경영 지침서 (hotkey: F3)
+`
+~
+IF_W
+마법사
+`
+~
+IF_L
+조직도 계획 (hotkey: F7)
+클릭하면 조직도 계획를 엽니다.
+~
+IF_F
+재정 보고서 (hotkey: F6)
+클릭하면 재정 보고서를 봅니다.
+~
+IF_AL
+공급자 자동 연결
+클릭하면 구매 부서가 공급자를 자동으로 찾게 됩니다.
+~
+IF_T
+연습 레벨
+Move the slider to alter the Training Level. With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.
+~
+IFM_S
+이 저택을 팔려고 내놓습니다.
+`
+~
+IFM_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFM_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFM_D
+이 저택을 철거합니다.
+`
+~
+IFM_B
+이 저택을 삽니다.
+`
+~
+IFM_CO
+반대 제안 하기.
+`
+~
+IFF_FW
+다음 상품
+`
+~
+IFF_BW
+이전 상품
+`
+~
+IFF_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFF_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFF_PC
+판매 가격 변경 확인.
+`
+~
+IFF_GP
+수익 그래프
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFF_GR
+수익 그래프
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFF_GQ
+판매량 그래프
+클릭하면 이 상품의 판매량 그래프를 보여줍니다.
+~
+IFR_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFR_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFR_PC
+판매 가격 변경 확인.
+`
+~
+IFR_L
+이 항목을 연결하세요
+`
+~
+IFR_GP
+수익 그래프 (F)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFR_GR
+수익 그래프 (R)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFR_GQ
+판매량 그래프
+클릭하면 이 상품의 판매량 그래프를 보여줍니다.
+~
+IFT_PP
+이전 상품
+클릭하면 이전 상품을 보여줍니다.
+~
+IFT_NP
+다음 상품
+클릭하면 다음 상품을 보여줍니다.
+~
+IFT_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFT_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFT_PC
+판매 가격 변경 확인.
+`
+~
+IFT_L
+이 항목을 연결하세요
+`
+~
+IFT_GP
+수익 그래프 (F)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFT_GR
+수익 그래프 (R)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFT_GQ
+판매량 그래프
+클릭하면 이 상품의 판매량 그래프를 보여줍니다.
+~
+IFD_PP
+이전 연구 프로젝트 
+클릭하면 이전 연구 프로젝트를 보여줍니다. 
+~
+IFD_NP
+다음 연구 프로젝트 
+클릭하면 다음 연구 프로젝트를 보여줍니다. 
+~
+IFS_PP
+Previous Product
+Click to display the previous product
+~
+IFS_NP
+다음 상품
+클릭하면 다음 상품을 보여줍니다.
+~
+IFS_L
+이 항목을 연결하세요
+`
+~
+IFS_GP
+수익 그래프 (P)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFS_GR
+수익 그래프 (R)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFS_GQ
+판매량 그래프
+클릭하면 이 상품의 판매량 그래프를 보여줍니다.
+~
+IFB_BI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFB_BD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFB_BC
+자금 대출
+`
+~
+IFB_RI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFB_RD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFB_RC
+대부금 상환
+`
+~
+IFA_PP
+이전 상품
+클릭하면 이전 상품을 보여줍니다.
+~
+IFA_NP
+다음 상품
+클릭하면 다음 상품을 보여줍니다.
+~
+IFA_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFA_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFA_L
+이 항목을 연결하세요
+`
+~
+IFA_GP
+수익 그래프 (P)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFA_GR
+수익 그래프 (R)
+클릭하면 이 상품의 수익 그래프를 보여줍니다.
+~
+IFA_GQ
+판매량 그래프
+클릭하면 이 상품의 판매량 그래프를 보여줍니다.
+~
+IFH_DI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFH_DD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFH_DC
+새 배당금 확인
+`
+~
+IFH_DN
+취소
+`
+~
+IFH_DS
+새 배당금 설정
+연말에 주주들에게 지불될 배당금을 설정합니다.
+~
+IFH_TI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFH_TD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+APPL_ALL
+Apply All
+Apply the change to all your firms 
+~
+APPL_SEL
+Apply Selected
+Go to the Firms report and select those of your firms that you want to apply the change
+~
+IFH_TO
+심화 훈련 프로그램을 준비합니다.
+`
+~
+IFH_CED
+최고 경영 관리자 정보 상세히 보기
+`
+~
+IFH_COD
+You can assign COO to manage your individual firms. Click here to view profile details. 
+`
+~
+IFH_COC
+최고 영업 관리자 찾기  
+`
+~
+IFH_CMD
+CMO manages all your advertising units. Click here to view profile details. 
+`
+~
+IFH_CMC
+최고 마케팅 관리자 찾기 
+`
+~
+IFH_CTD
+CTO manages all your R&D centers. Click here to view profile details. 
+`
+~
+IFH_CTC
+최고 기술 관리자 찾기 
+`
+~
+IFH_IRD
+Monthly Spending Adjustment
+`
+~
+IFH_PRD
+월간 일반 대중 관리 비용을 설정 합니다.
+`
+~
+IFH_WAI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFH_WAD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFH_WAO
+제의 하세요
+`
+~
+IFH_WAN
+취소
+`
+~
+IFM_L
+이 방송매체와 연결 하세요
+`
+~
+IFM_BD
+새로운 콘텐츠 개발을 위한 별도의 월간 예산을 설정합니다.  
+새로운 콘텐츠 개발은 콘텐츠 품질을 향상시키는데 도움이 됩니다. 
+~
+IFM_BL
+특허 예산 조정
+`
+~
+IFM_AD
+다음 달의 광고 비용을 설정합니다. 
+새로 설정한 광고 비용은 다음 달에 사용됩니다. 
+~
+IFI_AI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFI_AD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFI_PI
+마우스의 왼쪽 버튼을 클릭하면 늘어납니다. 오른쪽 버튼을 클릭하면 빠르게 늘어납니다.
+`
+~
+IFI_PD
+마우스의 왼쪽 버튼을 클릭하면 줄어듭니다. 오른쪽 버튼을 클릭하면 빠르게 줄어듭니다.
+`
+~
+IFI_IS
+신주 발행
+`
+~
+MG_EX1
+이 반제품으로 만들어지는 상품을 보려면 이 곳을 클릭하세요.
+`
+~
+MG_EX2
+이 원료가 어떻게 생산되는지 보려면 여기를 클릭하세요.
+`
+~
+MG_EX3
+이것은 농장 상품입니다. 이 원료가 어떻게 생산되는지 보려면 여기를 클릭하세요.
+`
+~
+MG_EX4
+이 것이 어떻게 다른 상품으로 만들어지는지 보려면 여기를 클릭하세요.
+`
+~
+IF_ADD
+Click here to add a new product (hotkey: A)
+`
+~
+IF_ADD2
+Shortcut for selecting a layout plan for this firm. 
+`
+~
+IF_ADD3
+Shortcut for addding a new production.
+`
+~
+IFM_C
+저택 판매 취소
+`
+~
+IFM_XM
+닫기
+`
+~
+IFT_PMSB
+상품 시장 점유율 표시
+The red bar tells the your market share for this product in the current city.  
+~
+IFT_PRB
+상품 등급 표시
+Orange bar = Brand rating. Green bar = Quality rating. Yellow bar = Price rating. The Product Overall rating is the sum total of these 3 ratings. 
+~
+IFT_PRB2
+Product Rating Indicators
+Green bar = Quality rating. Yellow bar = Price rating. The Product Overall rating is the sum total of these 2 ratings. 
+~
+IFT_CITY
+City Average 
+It shows the average ratings of this product in the current city. The average ratings are derived from your competitors' products and your products. Therefore if your product's ratings are higher than the city averages, your products will sell better. 
+~
+IFT_SD
+Product Supply and Demand Indicators 
+Yellow bar = the Supply. Orange bar = the Demand. When the demand (orange) bar is longer than the supply (orange) bar, it means you do not have enough supply to meet the demand.
+~
+U_LEVEL
+Experience Level of the Unit 
+The overall productivity and capacity of most units increase when their unit
+levels increase. Training will increase them increase their levels faster.   
+~
+U_UTIL
+Capacity Utilization Rate of the Unit 
+A high utilization rate means that your unit is operating efficiently. A low rate means that your unit has idle time and its capacity is not well utilized. 
+~
+U_STOCK
+Stock at the Unit 
+The stock kept at the current unit. 
+~
+U_WORKER
+Workers at the Unit 
+Novice workers wear red uniforms, whereas experienced workers wear blue. When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).
+~
+LO_IN_E1
+이 기능 부서를 선택하려면 이 곳을 한번 클릭하세요. 변경하려면 더블클릭 하세요.
+`
+~
+LO_IN_E2
+기능 부서를 추가하려면 여기를 더블클릭 하세요.
+`
+~
+LO_IN_E3
+Hotkey: Press the first letter of the name of an functional unit to add it instantly.
+`
+~
+IFT_PBI
+상품 브랜드 표시
+The color shown here tells which company is the producer of this product. Gray colors means imports from seaports.  
+~
+JU_001
+연결 중지
+`
+~
+JU_002
+Link to a new media firm for advertising 
+`
+~
+JU_003
+작물 재배
+`
+~
+JU_004
+가축 사육
+`
+~
+JU_005
+상품 선택
+`
+~
+JU_006
+재고 정리
+`
+~
+JU_007
+Upgrade production technology 
+Upgrade this manufacturing unit to use the latest production technology that your company possesses. 
+~
+JU_008
+생산 설정
+More than one product type can be produced using the existing inputs. Click here to select the production type you prefer. 
+~
+JU_009
+새 공급자 연결
+`
+~
+JU_010
+공급자 보기
+`
+~
+JU_011
+Stop purchasing from the current supplier
+`
+~
+JU_012
+모든 재고 정리
+`
+~
+JU_013
+새로운 소프트웨어 개발
+`
+~
+JU_014
+신 상품 개발을 위한 연구 프로젝트 시작
+`
+~
+JU_015
+생산 기술 개선을 위한 연구 프로젝트 시작
+`
+~
+JU_016
+현재 제조부서에 최근의 생산기술 적용
+`
+~
+JU_017
+현재 고객들에 대한 공급 중단
+`
+~
+JU_018
+이 상품의 재고를 정리
+`
+~
+JU_019
+이 상품의 재고를 정리
+`
+~
+JU_020
+내부 판매 선택
+내부 판매가 설정되면 경쟁업체들은 당신에게서 이 상품을 구입할 수 없습니다.
+~
+JU_021
+고객들 보기
+`
+~
+VM_001
+안내 화면
+`
+~
+VM_002
+외부 화면
+`
+~
+VM_003
+내부 화면
+`
+~
+PD_S_GRP
+판매량 그래프 켜기/끄기
+`
+~
+CDR_P_01
+소매부문에서 당신의 회사가 생산하거나 판매중인 상품들을 보여줍니다.
+`
+~
+CDR_P_02
+당신의 회사가 생산중인 상품들을 보여줍니다.
+`
+~
+CDR_P_03
+당신의 회사가 소매 부문에서 팔고있는 상품을 보여 줍니다.
+`
+~
+CDR_T_01
+모든 기술들을 보여 줍니다.
+`
+~
+CDR_T_02
+Show here if your company's technology level >= 30.
+`
+~
+CDR_T_03
+Only show all products that your company is currently producing. 
+`
+~
+CDR_T_04
+Only show technologies that your company is currently researching.
+`
+~
+CDR_T_GO
+Go to the responsible R&D center
+Go to your R&D center responsible for researching the selected technology. You may also double-click on a R&D record to do the same. 
+~
+CDR_D_01
+모든 산업 및 상품 유형을 보여 줍니다.
+`
+~
+CDR_D_02
+당신의 회사가 시장 점유를 가진 산업과 상품 유형들만 보여줍니다.
+`
+~
+CDR_D_03
+당신의 회사가 지배중인 산업과 상품 유형들만 보여 줍니다.
+`
+~
+MFT_IN
+특정 원료품(Input)을 찾으려면 원료품의 첫글자를 입력하세요.
+`
+~
+MFT_OUT
+특정 생산품(Output)을 찾으려면 생산품의 첫 글자를 입력하세요.
+`
+~
+PLAN_1
+다음 조직도 계획으로 갑니다.
+`
+~
+PLAN_2
+현재 사업체의 조직도를 조직도 자료실에 추가 합니다.
+`
+~
+PLAN_3
+이 조직도 계획을 삭제 합니다.
+`
+~
+PLAN_4
+이 조직도 계획을 현재의 사업체 조직도로 바꿉니다.
+`
+~
+PLAN_5
+자료실의 조직도 계획을 조직도 설명순으로 순차정렬 합니다.
+`
+~
+PLAN_6
+이 조직도 계획을 현재 사업체에 사용합니다.
+`
+~
+PLAN_7
+조직도 자료실에서 빠져 나가기
+`
+~
+PLAN_8
+선택가능한 공급자들
+`
+~
+CH_CHAT
+채팅 메시지를 입력하려면 이 아이콘을 클릭하고 ENTER키를 누르세요.
+`
+~
+CH_ALL
+여기를 선택하면 모든 플레이어들에게 메시지가 보내 집니다.
+`
+~
+CH_COLOR
+색깔을 선택하면 해당 색깔의 플레이어들에게만 메시지가 전달 됩니다.
+`
+~
+CH_CLOSE
+대화 창 닫기.
+`
+~
+CH_LOG
+대화 기록 열기.
+`
+~
+RENTFIXA
+Fix this apartment's rent to the market rate. 
+If this is enabled, the computer will automatically adjust the apartment's rent based on the market rate. You may also set a modifier on top of the market rate. For example, you may set your apartment's rent to be always 10% higher than the market rate. 
+~
+RENTFIXC
+Fix this commercial building's rent to the market rate. 
+If this is enabled, the computer will automatically adjust the commercial building's rent based on the market rate. You may also set a modifier on top of the market rate. For example, you may set your commercial building's rent to be always 10% higher than the market rate. 
+~
+BUYFIRMA
+This apartment is for sale. Click here to buy it.  
+`
+~
+BUYFIRMC
+This commercial building is for sale. Click here to buy it.  
+`
+~
+FORSALEA	
+Click here to put this apartment up for sale. Click again to cancel it. 
+`
+~
+FORSALEC
+Click here to put this commercial building up for sale. Click again to cancel it. 
+`
+~
+DEMOLISA
+Demolish this apartment.  
+`
+~
+DEMOLISC
+Demolish this commercial building. 
+`
+~
+AR_COMM
+Community Facilities 
+Increase this rating by building more community facilities close to this apartment.
+~
+AR_SHOP
+Shopping Convenience 
+Increase this rating by building more retail shops near close to apartment.
+~
+AR_GREEN
+Green and Sports Rating 
+Keep a distance between this apartment and other buildings, specially factories and mines. Sport facilities and parks will help too.
+~
+AR_RENT
+Rent Attractiveness 
+Increase this rating by decreasing the rent you are asking for.
+~
+AR_OVERA
+Overall Rating 
+The overall rating is a combination of the above ratings. 
+~
+CR_DIST
+Distance to Central Business District(CBD)
+The shorter the distance to Central Business District(CBD), the higher this rating is.
+~
+CR_COMMU
+Commuting Convenience 
+A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.  
+~
+F_OSALE
+For Sale 
+Click here to put this firm up for sale. Click again to cancel it. 
+~
+F_AISALE
+Buy Firm 
+This firm is for sale. Click the [Buy Firm] button below to buy it.
+~
+F_BUY
+Click to buy this firm
+`
+~
+F_MOVDEM
+Relocate or Demolish this firm
+You may relocate this firm in the same city, or demolish it.  
+~
+F_DEMOLI
+Demolish this firm
+`
+~
+ASSIGN_M
+Click here to set the manager of this firm (hotkey: 'z').
+`
+~
+F_GRAPH
+Click here to switch between display modes 
+`
+~
+P_SEARCH
+Search for a specific product (Hotkey: Tab) 
+`
+~
+P_PREV  
+Previous Product (Hotkey: Up)
+`
+~
+P_NEXT  
+Next Product (Hotkey: Down)
+`
+~
+P_GO  
+Go to the firm selling or producing this product (Hotkey: Enter) 
+`
+~
+CS_LOGO
+Click here to go to the Corporate Details page.
+`
+~
+CS_PERS
+Click here to go to the Persons page.
+`
+~
+CS_PROF
+Click here to go to the Financials page.
+`
+~
+CS_STOCK
+Click here to go to the Stock Market. 
+`
+~
+I_CSUM
+Hotkey: 'C'
+`
+~
+I_CDET
+Hotkey: 'D'
+`
+~
+I_PSUM
+Hotkey: 'P'
+`
+~
+I_PDET
+Hotkey: 'R'
+`
+~
+I_FIRM
+Hotkey: 'F'
+`
+~
+I_FINAN
+Hotkey: 'I'
+`
+~
+I_PERSON
+Hotkey: 'E'
+`
+~
+I_GOAL
+Hotkey: 'G'
+`
+~
+I_SCORE
+Hotkey: F7
+`
+~
+I_MFT
+Hotkey: F1
+`
+~
+I_FARM
+Hotkey: F2
+`
+~
+I_MANAG
+Hotkey: F3
+`
+~
+I_CITY
+Hotkey: 'T'
+`
+~
+I_NATION
+Hotkey: 'Y'
+`
+~
+I_ECO
+Hotkey: 'Y'
+`
+~
+I_FINACT
+Hotkey: F11
+`
+~
+I_STOCK
+Hotkey: F4
+`
+~
+CTRAFFIC 
+Customer Traffic index of this area
+The higher the customer traffic index, the larger the number of potential customers will visit your store. 
+~
+FIRM_REP
+Shortcut to Firm Summary 
+Click here to go to the Firm Summary report 
+~
+SUBSONLY 
+Show your corporation and subsidiaries only 
+Click here to toggle this filter on and off. 
+~
+SHOWNP
+Toggle News Popup 
+Enable or disable the option of popping up news windows for important news.
+~
+T_PGROW
+City Population Growth 
+A city's population growth is supported by a low employment rate, high quality of living, and sufficient supplies of new apartments.  
+~
+T_POP
+City Population 
+This shows the city's population changes over time. 
+~
+T_IMMIG
+Annual Immigrants 
+The number of immigrants to the city annually. 
+~
+T_EMIG
+Annual Emigrants 
+The number of people emigrated from the city annually. 
+~
+T_QLIVE
+Quality of living of the city.  
+People enjoy their lives better when they live in apartments with good access to community and sports facilities, a green environment and good shopping convenience, as well as a higher real wage rate.  
+~
+T_JOBOPE
+The number of job openings in the city 
+Generally, when there is a large number of job openings available in the city, the city can afford to accept immigrants at a faster pace. 
+~
+T_HOUSE
+Housing Supply and Demand Index 
+A positive value means that the housing supply is greater than the housing demand, and vice versa. 
+~
+T_OFFICE
+Office Space Supply and Demand Index 
+A positive value means that the office space supply is greater than the office space demand, and vice versa. 
+~
+E_GDP
+Gross Domestic Product (GDP) Growth
+GDP growth is affected by consumer spending, private investment, government spending and net exports. 
+~
+E_GDPPC
+Gross Domestic Product (GDP) per capita 
+This value indicates the approximate value of goods produced per person in the city. It equals to the total GDP divided by the total number of people in the city.
+~
+E_GDPTOT
+Total Gross Domestic Product (GDP) 
+The total GDP is the sum of the consumption, private investment, government spending and net exports. 
+~
+E_UNEMP
+Unemployment Rate 
+The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs. 
+~
+E_RWAGE
+Real Wage Rate  
+Real wages refers to wages that have been adjusted for inflation. A growing real wage rate means that people are earning more money, even after being adjusted for inflation. 
+~
+E_WAGE
+Wage Rate  
+A growing wage rate means that people are earning more money. 
+~
+E_INFLAT
+Inflation Rate 
+The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending). 
+~
+E_IRATE
+Loan Interest Rate
+The interest rate is set by the central bank. When the interest rate is high, the money supply is also tight. 
+~
+E_CPI
+Consumer Price Index (CPI)
+CPI tells the accmulated effects of inflation over years. It starts with a base value of 100 and increases during inflation times and decreases during deflation times.
+~
+NOWAIT1
+Cancel Waiting 
+You have used a layout plan for this firm and the computer is looking for a supplier based on the plan. Click here to cancel it and handle it manually. 
+~
+NOWAIT2
+Cancel Waiting
+You have used a layout plan for this firm and it is now waiting for required inputs to manufacture this product. Click here to cancel waiting and handle it manually. 
+~
+ISSUE1
+Issue New Shares 
+`
+~
+ISSUE0
+You cannot issue new shares to the public too frequently. 
+You may try again a few weeks later. 
+~
+WH_ONLY 
+Toggle whether the supplier list should only show warehouses. 
+`
+~
+BATCH_J 
+Batch Switching Supplier 
+Apply the same supplier change to other firms of yours. Go to Firm Report and select firms to apply the change. 
+~
+BATCH_F
+Batch Switching Supplier 
+Apply the same supplier change that you've just made to other firms of yours. Use Filters at the top of this screen to select firms to apply the change. 
+~
+RENTMODI
+Set your rent to a percentage above or below the current market price.
+`
+~
+RESGOAL
+Reset all goals.
+`
+~
+PLANSRC1
+Select the folder containing predefined layout plans.
+`
+~
+PLANSRC2
+Select the folder containing user-defined layout plans.
+`
+~
+PLANSRC3
+Select the folder containing wildcard layout plans.
+Wildcard layout plans are for factories only and can be used for producing any products with the same number of inputs. 
+~
+FIRMDES0
+This firm's description - click here to edit. (hotkey: Enter)
+`
+~
+FIRMDES1
+Click here to finish editing this firm's description. (hotkey: Enter)
+`
+~
+PLANDES0
+This layout plan's description - click here to edit.
+`
+~
+PLANDES1
+Click here to finish editing this layout plan's description.
+`
+~
+CHASORT1
+Sort by Challenge Game Title. 
+`
+~
+CHASORT2
+Sort by Contest Starting Date. 
+`
+~
+CHARANK1
+Launch a web browser and open the Public Challenge Game Rankings web page.
+`
+~
+CHARANK2
+Launch a web browser and open the Private Challenge Game Rankings web page.
+`
+~
+SPEEDNO
+Game Speed (disabled)
+Sorry, you cannot change the game speed of the current game as it is fixed by a game script. 
+~
+U_FUND
+Click to set the additional funding for the focused area.
+The funding will help improve the city's competitiveness in the focused area.
+~
+PRICE_PM
+Maximize profit margins by raising prices at the expense of market shares and capacity utilization rates.
+`
+~
+PRICE_MS
+Lower prices to gain market shares at the expense of profit margins.
+`
+~
+PRICE_BL
+Balance market shares and profit margins and set prices sensibly.
+`
+~
+MYSTAFF
+Limit the list to only show the executive staff in your company.
+`
+~
+M_SHARE
+Retail market shares of this product 
+`
+~
+GETNUM
+Click here to type in an exact number (hotkey: '=')
+`
+~
+S_OWNED
+Toggle whether showing only companies in which you own shares.
+`
+~
+S_ANY
+Show any types of stocks. 
+`
+~
+S_INDEX
+Only show index stocks.
+`
+~
+S_TECH 
+Only show technology stocks. 
+`
+~
+S_ESTATE
+Only show real estate stocks. 
+`
+~
+S_MEDIA
+Only show media stocks. 
+`
+~
+S_INVEST
+Only show companies whose main business activities are investing into other companies.  
+`
+~
+S_CONSUM
+Only show companies that sell consumer products. 
+`
+~
+IS_PRIV
+This is a private company. 
+`
+~
+IS_PUBL
+This is a public company 
+Click here to access the stock market.
+~
+IS_SUBS
+This company is your corporation's subsidiary.
+`
+~
+IS_SHARE
+You own shares in this company directly or via holding companies.
+`
+~
+LOADMOD
+Use this MOD.
+`
+~
+RESETMOD
+Reset the MOD setting and use the default game resources. 
+`
+~
+MAYOR_MV
+Relocate this firm as part of your city planning. 
+Relocate this firm and compensate the owner for the difference in land prices if there is any. 
+~
+ZONE_ANY 
+Zoning Tool - Any Purposes 
+Use this tool to remove land-use restrictions on the selected land plots. 
+~
+ZONE_RES 
+Residential Zoning Tool  
+Use this tool to set selected land plots to residential zones.
+~
+ZONE_COM 
+Commercial Zoning Tool  
+Use this tool to set selected land plots to commercial zones.
+~
+ZONE_RC 
+Mixed Residential-Commercial Zoning Tool  
+Use this tool to set selected land plots to mixed residential-commercial zones.
+~
+ZONE_IND 
+Industrial Zoning Tool  
+Use this tool to set selected land plots to industrial zones.
+~
+ZONE_FAR
+Agricultural Zoning Tool  
+Use this tool to set selected land plots to agricultural zones. The land cost in agricultural zones are significantly lower than other zones. 
+~
+ZONE_NOT 
+Zoning Tool - Not For Sale
+Land plots marked by this tool will not be for sale. 
+~
+Z_SETALL
+Toggle the menu for applying a specific land purpose for the entire city.
+Select a land purpose and apply it to the entire city.
+~
+ZALL_ANY
+Apply All - Any Purposes 
+Remove land-use restrictions on any land plots owned by the government. 
+~
+ZALL_RES
+Apply All - Residential Zones 
+Set the entire city's land plots currently owned by the government to residential zones.
+~
+ZALL_COM
+Apply All - Commercial Zones
+Set the entire city's land plots currently owned by the government to commercial zones.
+~
+ZALL_RC
+Apply All - Mixed Residential-Commercial Zones
+Set the entire city's land plots currently owned by the government to mixed residential-commercial zones.
+~
+ZALL_IND
+Apply All - Mixed Industrial-Agricultural Zones
+Set the entire city's land plots currently owned by the government to mixed industrial-agricultural zones.
+~
+ZALL_NOT
+Apply All - Not For Sale
+All land plots owned by the government will not be for sale. 
+~
+OSUSPEND 
+Operation suspended
+The operation of this public facility is suspended due to lack of government funding. 
+~
+QOL_HOUS
+Housing and Community Facilities 
+This rating is determined by the city's Housing Supply and the average Overall Ratings of existing apartments.
+~
+QOL_JOBS
+Jobs and Income 
+This rating is determined by the city's Wage Level, the Unemployment Rate, and the Individual Income Tax Rate.
+~
+QOL_EDU
+Education
+This rating is determined by the Overall Satisfaction ratings of Schools and Universities in the city (details can be viewed on the "Public Facilities" page) and the Education Levels of the citizens (info can be viewed on the detail window of a school or a university.)
+~
+QOL_HEAL
+Health 
+This rating is determined by the Overall Satisfaction ratings of Hospitals in the city (details can be viewed on the "Public Facilities" page).
+~
+QOL_SAFE
+Safety 
+This rating is determined by the Overall Satisfaction ratings of Police Stations and Fire Stations in the city (details can be viewed on the "Public Facilities" page).
+~
+QOL_FOOD
+Food availability at retail 
+The variety and supply of food available at retail. 
+~
+QOL_PROD
+Products availability at retail 
+The variety and supply of consumer products available at retail. 
+~
+QOL_ENV
+Environment 
+This rating is determined by the Pollution level of the city. (Select Pollution mode on the mini map to see the city's population level.)
+~
+QOL_SPOR
+Sports  
+This rating is determined by the Overall Satisfaction ratings of Sports Facilities in the city (details can be viewed on the "Public Facilities" page).
+~
+QOL_CULT
+Culture 
+This rating is determined by the Overall Satisfaction ratings of Library, Museums, and City Halls in the city (details can be viewed on the "Public Facilities" page).
+~
+P_TRAIN
+Use the slider to set the staff training budget for this civic building. 
+`
+~
+P_FACIUP
+Use the slider to set the budget for upgrading the facilities of this civic building. 
+`
+~
+P_SKILL
+Staff skill level 
+The staff's skill level is determined by 1) the educational level of people in this city and 2) the staff training for this civic building. 
+~
+P_FACILI
+Upgrade facilities
+Click here to upgrade facilities of this civic building, allowing you to provide better quality of services to the citizens. 
+~
+P_QUALIT
+Quality of service 
+The quality of service provided by this civic building is determined by 1) its staff's skill and 2) its facilities' quality.
+~
+P_DEMAND
+Demand/supply index for services provided by this civic building 
+This index tells you whether you have enough civic buildings in the city to meet the citizens' demands for the services. A value of less than 100 means that it cannot keep up with the current demand and you should build more buildings of this type. 
+~
+P_COVERP
+Geographical coverage of police 
+A high value means that different regions of the city have good police coverage. Conversely, a low value indicates some regions of the city do not have adequate police coverage. 
+~
+P_COVERF
+Geographical coverage of fire services 
+A high value means that different regions of the city have good coverage of fire services. Conversely, a low value indicates some regions of the city do not have adequate fire services coverage. 
+~
+P_CONVEN
+Location convenience
+A high value means that people living in different regions of the city is well served. Conversely, a low value indicates that people in some regions of the city do not have good access to the services. 
+~
+P_OVERAL
+Citizens' overall satisfaction of the services
+This is a product of the above three values and it ultimately tells whether the mayor is doing a good job providing services of this kind to the citizens. 
+~
+PO_IMMIG
+Annual limit on immigrants
+When a city does not have sufficient job opportunities for new immigrants, or its public facilities cannot keep up with the demand by its growing population, the city is likely to tighten its immigration policy.
+~
+PO_S_TAX
+Consumer Tax Rate
+Consumer taxes are charged whenever consumers spending money on goods. (Tax = Product Price X Consumer Tax Rate). When a city's consumer tax rate is too high, consumer spending will decline. Weak consumer spending will in turn adversely affect the business sector.
+~
+PO_I_TAX
+Individual Income Tax Rate
+When a city's individual income tax rate is too high, it will have a negative effect on consumer spending. In addition, the "Jobs and Income" category of the Quality of Life index will suffer a drop as well. 
+~
+PO_P_TAX
+Corporate Profit Tax Rate
+`
+~
+PO_AUTOM
+Auto Manage Media Firms
+When this is enabled, the computer will automatically manage all of the city's existing media firms for you. 
+~
+PO_AUTOA
+Auto Manage Apartments 
+When this is enabled, the computer will automatically manage all of the city's existing apartments for you. It will set the apartments' rents based on your preference which you may customize with the "Rent" setting below. 
+~
+PO_AUTOC
+Auto Manage Commercial Buildings 
+When this is enabled, the computer will automatically manage all of the city's existing commercial buildings for you. It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below. 
+~
+EMIGRATI
+People emigrating from the city. 
+The low value of this aspect of quality of life has caused some people to emigrating from this city to other cities.
+~
+MAPPUBLIC
+Mini Map - Public Service mode 
+The mini map currently shows the geographical coverage of this type of civic building. Click here to select another type of civic building. 
+~
+MAPPUBNIL
+Mini Map - Public Service mode 
+Click here to select a type of civic building for the mini map to display the geographical coverage of its services.  
+~
+MODE_GOV
+Government Mode (hotkey: Tab)
+Switch to the Government Mode to give orders on behalf of the government. 
+~
+MODE_BUS
+Business Mode  (hotkey: Tab)
+Switch to the Business Mode to give orders on behalf of the corporation. 
+~
+APPROVAL
+Mayor Approval Rating 
+The current city's mayor approval rating. For more details, see the Cities page on the Information Center. 
+~
+GOALACHI
+Goal Achievement Progress
+It indicates your progress in achieving the goals. 
+~
+ECO_MAX
+Show the Economic Info window 
+`
+~
+ECO_MIN 
+Hide the Economic Info window 
+`
+~
+ECO2_MAX
+Extend the Economic Info window to display additional info. 
+`
+~
+ECO2_MIN 
+Hide the extended section of the Economic Info window.  
+`
+~
+PS_FIND 
+To search a product, simply type the first letter of the product's name. 
+`
+~
+PS_CITY 
+Toggle between showing products in the current city and showing products from all cities. 
+`
+~
+PS_SUPP
+Hotkeys: Use F1, F2 and F3 to select All suppliers, Seaports and your own firms respectively. 
+`
+~
+PS_PROD
+Press [Enter] any time to open the product filter list. 
+To locate the product you want, type the first letter of the product name
+~
+CONFIRMP
+Confirm the price change (hotkey: '*' or ']')
+`
+~
+PLAN_PS
+Use the Space key to show or hide this drop down list of product filters. 
+Red text denotes that layout plans or inputs are not available for the product. 
+~
+PLANPREV
+Hotkey: Left arrow key to go to the previous layout plan. 
+`
+~
+PLANNEXT
+Hotkey: Right arrow key to go to the next layout plan. 
+`
+~
+G_BRAWF
+Build a firm for extracting natural resources. 
+`
+~
+G_BCITYS
+Build a small city. 
+`
+~
+G_BCITYL
+Build a large city. 
+`
+~
+STK_PRIC
+The current stock price.
+`
+~
+STK_TQTY 
+The total number of shares currently held by all its shareholders. 
+`
+~
+STK_CAP
+The market capitalization of a company.
+It equals to its share price times the total number of shares outstanding. In other words, it is the total market value of the company in the stock market. 
+~
+STK_EARN
+Earning Per Share 
+The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
+~
+STK_EQUI
+Equity Per Share 
+It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.
+~
+STK_PE
+The P/E Ratio or the Price-Earnings Ratio 
+It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share. A high P/E ratio generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect. 
+~
+STK_PB
+The P/B Ratio or the Price-to-Book Ratio
+It is calculated by dividing the current stock price by the Equity Per Share. A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth 
+~
+STK_DIVI
+Dividend Yield 
+This is a percentage calculated by dividing the latest dividend paid by the stock price. The greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.
+~
+STK_RETA
+Total Shareholder Return (Annual)
+This percentage is calculated by dividing the total return to investors (which is the sum of dividends paid and capital gains from stock price increases in the past 365 days), by the stock price.
+~
+STK_RETL
+Total Shareholder Return (Lifetime)
+This percentage is calculated by dividing the total return to investors (which is the sum of all dividends paid and lifetime capital gains from stock price increases), by the stock price.
+~
+PLANALL
+Show all layout plans (F1) 
+`
+~
+PLANINPU
+Only show layout plans with all inputs available (F2) 
+`
+~
+MOD_DL
+Download MODs
+Access the Capitalism Lab MOD forum to download user-created MODs.
+~
+DIVPAYO
+Dividend Payout Ratio 
+It is the percentage of earnings paid to shareholders in dividends. (Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.) 
+~
+DIVYIELD
+Actual Dividend Yield 
+This is a percentage calculated by dividing the latest dividend paid by the stock price. The greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.
+~

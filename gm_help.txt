@@ -1,0 +1,124 @@
+GM_DIFF
+게임 난이도 레벨
+미리 설정된 여덟 단계의 난이도 중에서 하나를 선택하세요. 사용자 취향에 맞추거나 자동적으로 게임 세팅을 할 수도 있습니다.
+~
+GM_NOC
+도시 개수
+한 개 혹은 여러 개의 도시에서 게임을 합니다.
+~
+GM_SUC
+당신의 창업자금
+게임을 시작할 때 당신의 회사가 보유하게 될 현금 액수를 설정합니다.
+~
+GM_ADV
+당신의 이점
+`
+~
+GM_ASI
+주식 투자 허용
+주식 시장을 이용하려면 "예"를 선택하세요. 당신과 당신의 회사는 기업 주식을 매매할 수 있습니다.
+~
+GM_PRI
+Private Companies 
+If this is set to On, all companies will start as private companies.  
+~
+GM_SUE
+Alternative Stock Sim 
+If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits. 
+~
+GM_RE
+랜덤 이벤트
+전염병, 가축돌림병, 정전 등과 같은 사건의 발생과 이로 인한 경제적 파장을 허용합니다.
+~
+GM_TEC
+Technology Disruption
+If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year. 
+~
+GM_FM
+AI Friendly Merger 
+If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.
+~
+GM_MER
+Macro Economy Realism 
+If it is set to High, the macro economy in the game will be simulated with a high level of realism.
+~
+GM_INF
+Inflation 
+Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. 
+~
+GM_INFS
+Inflation Strength 
+Select Reduced Inflation Strength if you prefer less strong inflation. As such, it will have the inflation artificially suppressed. 
+~
+GM_RST
+소매점 종류
+슈퍼마켓이나 가구점 등과 같은 개별매장을 원하시면 "여러가지"를, 백화점만 원하시면 "한가지"를 선택하세요. 
+~
+GM_GSY
+게임 시작 연도
+최근의 날짜로 세팅하면 상품 생산을 위해 연구 개발해야 하는 기술의 수가 줄어듭니다.
+~
+GM_NOCO
+경쟁업체 수
+원하는 경쟁 업체의 숫자를 결정합니다.
+~
+GM_CSC
+경쟁업체의 창업자금
+경쟁업체의 초기 현금 보유량을 결정합니다.
+~
+GM_CA
+경쟁업체의 공격성
+경쟁업체의 경제적 공격성향을 결정합니다. 
+~
+GM_CEL
+경쟁업체의 전문성 수준
+경쟁업체의 사업역량을 결정합니다.
+~
+GM_CADV
+경쟁업체의 이점
+`
+~
+GM_CTS
+경쟁업체의 기업비밀 보기
+"예"를 선택하면 경쟁업체의 연구&개발 프로젝트에 대한 정보를 얻게 됩니다.
+~
+GM_CLC
+지역 경쟁업체의 역량
+지역 경쟁업체의 경쟁력을 결정합니다.
+~
+GM_NOSC
+소비재 수입을 위한 항구의 개수
+항구가 많을 수록 소매품을 많이 입수할 수 있습니다.(즉, 큰 규모의 공단이 필요없게 됩니다.)
+~
+GM_NOSI
+생산재 수입을 위한 항구의 개수
+항구가 많을 수록 공업 원료를 많이 입수할 수 있습니다.(즉, 잠재적인 공업 능력을 증가시킵니다.)
+~
+GM_SN
+게임도중 새로운 항구 출현
+새로운 수입 경로를 만들 수 있습니다.
+~
+GM_SCI
+지속적인 수입품 공급
+지속적인 공급은 물품을 대량으로 비축할 필요가 없고, 다른 공급자를 물색해야 하는 번거로움을 덜어줍니다.
+~
+GM_SIQ
+수입품 품질
+품질이 떨어지는 상품은 지역의 신흥 제조업체들에게 경쟁력을 키울 수 있는 기회를 제공하고, 품질이 우수한 상품은 소비자들의 기대를 충족시켜 소비전망이 좋아집니다.
+~
+CHALCONF
+You must confirm this before sending this Challenge Game to other players.
+You may start the game first, then adjust the challenge game and goal settings as needed, and finally confirm them. 
+~ 
+CHALHOW
+How-to web page 
+Launch a web browser and open the web page with instructions on how to set up a private challenge game.
+~
+GENDER_M
+Male 
+`
+~
+GENDER_F
+Female 
+`
+~
